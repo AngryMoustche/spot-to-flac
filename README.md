@@ -1,4 +1,5 @@
-You will need to create your own "Spotify Library.txt" file. I sugest using https://www.tunemymusic.com/transfer/spotify-to-file
+You will need to create your own "Spotify Library.txt" file. I sugest using https://www.tunemymusic.com/ 
+with "your source"-->"free text"
 
 you may need to fix the path to that file in the begining of the script.
 
